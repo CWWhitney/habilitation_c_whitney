@@ -1,0 +1,98 @@
+---
+title: "Teaching Experience (Verzeichnis der Lehrveranstaltungen)"
+author: "Cory Whitney"
+output: 
+  pdf_document:
+    extra_dependencies: ["float"]
+    number_sections: true
+    latex_engine: xelatex
+    includes:
+      keep_tex: yes
+    toc_depth: 2
+header-includes:
+   \usepackage{xurl}
+   \usepackage{longtable}
+   \usepackage{pdfpages}
+   \usepackage{fancyhdr}
+   \usepackage{sidecap}
+   \usepackage{fullpage}
+   \usepackage{pdflscape}
+   \pagestyle{fancy}
+   \fancyhf{}
+   \fancyfoot[C]{\textit{Teaching Experience} \textbar\ \textbf{Cory Whitney} \textbar\ Page \thepage}
+   \renewcommand{\headrulewidth}{0pt} 
+---
+
+<!--  first section Roman numerals -->
+
+<!-- Title numbering max of three (though toc_depth: 2)-->
+\renewcommand{\thesection}{\roman{section}} 
+\renewcommand{\thesubsection}{\thesection.\roman{subsection}}
+
+\tableofcontents
+
+# Introduction 
+
+This document serves as the Verzeichnis der Lehrveranstaltungen, providing a structured overview of my teaching activities. It details the academic courses I have designed and delivered, my contributions to non-academic education, and my role in co-supervising graduate theses.
+
+The Teaching Experience section presents formal university-level courses, emphasizing decision analysis, agroecology, and interdisciplinary research. These lectures and seminars have been integral to graduate and undergraduate programs, particularly at the University of Bonn and affiliated institutions.
+
+The Teaching Outside Academia section highlights my engagement in experiential education beyond traditional academic settings. My involvement in maritime training, environmental education, and outdoor leadership has shaped my pedagogical approach by integrating hands-on learning with theoretical instruction.
+
+The Co-Supervised Theses section documents my mentorship of graduate students conducting research on decision science and sustainable food systems. These projects reflect my commitment to interdisciplinary scholarship and applied problem-solving.
+
+This Verzeichnis der Lehrveranstaltungen provides a comprehensive record of my teaching contributions, demonstrating my commitment to knowledge dissemination, student mentorship, and the integration of theory and practice.
+
+\newpage
+
+# Teaching Experience
+
+This section presents an overview of my teaching experience at academic institutions, highlighting courses I have designed and delivered over the years. The focus is on decision analysis, agroecology, and interdisciplinary research methods, reflecting my contributions to graduate and undergraduate education.
+
+\begin{longtable}{p{1.9cm} p{3.75cm} p{8.35cm}}
+\textbf{Date} & \textbf{Role} & \textbf{Course, University} \\
+\hline
+2018--Present & Lecturer & Decision Analysis, INRES, University of Bonn \\
+2018--Present & Lecturer & Tropical Production Systems, ARTS, University of Bonn\\
+2018--Present & Seminar lead & Advanced Academic Writing, INRES, University of Bonn \\
+2018--Present & Lecturer & Horticultural Production and Research, INRES, University of Bonn \\
+2018--Present & Seminar co-lead & Introduction to R, ZEF, University of Bonn \\
+2018--Present & Lecturer & Interdisciplinary Research, ZEF, University of Bonn \\
+2018--Present & Lecturer & Complex Systems Modelling, ZEF, University of Bonn \\
+2018--2019 & Lecturer & Academic Writing, ZEF, University of Bonn \\
+2019 & Invited Lecturer & Introduction to R, Ethnobotany Research and Modelling, Kunming Institute of Botany, Yunnan, China \\
+2014--2015 & Invited Lecturer & Sustainable Agricultural Production Systems, Rhine Waal University of Applied Sciences, Germany \\
+2014 & Invited Field Course Instructor & Mabira Forest Biodiversity Assessment, Makerere University, Uganda \\
+2002 & Professor’s Assistant & Japanese Sustainable Systems, Sterling College, Vermont / Hokkaido, Japan \\
+\end{longtable}
+
+\newpage
+
+# Teaching Outside Academia
+
+Beyond formal academic settings, I have engaged in diverse educational roles, including maritime and environmental education programs. These experiences have enriched my teaching approach by integrating experiential and field-based learning methodologies.
+
+\begin{longtable}{p{1.9cm} p{3.75cm} p{8.35cm}}
+\textbf{Date} & \textbf{Role} & \textbf{Course, Program} \\
+\hline
+2006--2007 & Instructor, Mate, Captain & Maritime Outdoor Education, Call of the Sea, SSV Schooner Seaward, Sausalito, California \\
+2004--2006 & Environmental Educator & Marine Biology \& Outdoor Education, Tall-ship program, SSV Schooner Tole Mour, Catalina Island, California \\
+2003--2004 & Educator & Maritime-Based High School Programs, SSV Schooner Lettie G. Howard, New York Maritime Museum \\
+2002--2003 & Instructor & Outdoor Leadership, Hurricane Island Outward Bound School, Maine \\
+\end{longtable}
+
+\newpage
+
+# Co-Supervised Theses
+
+This section outlines the graduate theses I have co-supervised, focusing on decision analysis, agroecology, and food system sustainability. These projects reflect my commitment to mentoring students and advancing research in applied decision science.
+
+\begin{longtable}{p{1.1cm} p{3.75cm} p{9.15cm}}
+\textbf{Year} & \textbf{Student} & \textbf{Thesis Title, University} \\
+\hline
+2024 & Kristen Bryk & \textit{Navigating Complexity: A Framework for Updating and Monitoring Forecasts of Nutrition Interventions in Evolving Food Environments}, Vrije Universiteit Amsterdam \\
+2024 & Aditi Bista & \textit{Decision Analysis: Turmeric vs. Maize and Millet Value Chains in Pyuthan District, Nepal}, University of Bonn \\
+2022 & B. Huerta & \textit{The Effect of Agricultural Management Practices on Aflatoxin Reduction in Maize in Mexico—A Decision Analysis Approach}, University of Bonn \\
+2020 & L. Netter & \textit{Agroforestry and Restoration with the Gold Standard—Decision Analysis of a Voluntary Carbon Offset Label}, University of Bonn \\
+2019 & H. Do & \textit{Helping Farmers Choose—Probabilistic Modelling of Agroforestry Options in Northern Vietnam}, University of Bonn \\
+\end{longtable}

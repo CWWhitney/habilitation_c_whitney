@@ -1,0 +1,42 @@
+<!-- bonndoc title page (per ULB Bonn, D. Roth, 17 Apr 2026): -->
+<!-- logo on top, no "Rheinische Friedrich-Wilhelms-Universität Bonn", -->
+<!-- year of publication, separate page with the date of habilitation, no page numbers -->
+
+\pagenumbering{gobble}
+\begin{titlepage}
+\begin{center}
+
+        % University Logo (official logo, figures/Uni_Bonn_Picture.pdf)
+        \includegraphics[width=0.45\textwidth]{figures/Uni_Bonn_Picture.pdf} \\[3cm]
+
+        % Title
+        {\Huge \textbf{Holistic Modeling Approaches for Supporting Sustainability Transitions}} \\[1.5cm]
+
+        {\large Habilitation} \\[1.5cm]
+
+        {\large To obtain the venia legendi}
+
+        {\large for the subject}
+
+        {\large “Agroecology and Sustainable Development”}
+
+        {\large at the Faculty of Agricultural, Nutritional and Engineering Sciences}
+
+        {\large University of Bonn} \\[2.5cm]
+
+        % Author Name
+        {\Large \textbf{Cory William Whitney}} \\[1.5cm]
+
+        % Year of publication
+        {\large 2026}
+    \end{center}
+\end{titlepage}
+
+\thispagestyle{empty}
+\vspace*{\fill}
+
+\noindent Date of habilitation: 14 December 2025
+
+\noindent Faculty of Agricultural, Nutritional and Engineering Sciences, University of Bonn
+
+\newpage

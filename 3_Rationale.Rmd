@@ -1,0 +1,53 @@
+Sustainable development interventions must navigate difficult trade-offs between improving human welfare—particularly for smallholder farming communities—and protecting fragile ecological systems. Development decisions in high-biodiversity areas are challenged by the complexity of socio-ecological systems, limited reliable data, and deep uncertainty surrounding future outcomes. Agricultural systems operate within a landscape of accelerating climate change, resource constraints, and socio-economic pressures. 
+
+My research addresses these challenges by integrating decision analysis and agroecology to improve decision-making under uncertainty. Over the past six years, I have developed probabilistic decision-support models that structure uncertainty in agricultural and conservation planning [e.g., @whitney_probabilistic_2018]. By applying expert-elicited probabilistic models and Monte Carlo simulations, I have provided structured approaches for evaluating intervention efficacy in agroecology, land-use planning, and biodiversity conservation.
+
+As climate change, biodiversity loss, and resource scarcity present increasing risks to smallholder farmers, my work has demonstrated how decision-support tools can enhance agricultural planning. I have applied probabilistic modeling to agroforestry decision-making [@do_adapting_2024] and water resource management [@lanzanova_improving_2019], showing how structured uncertainty analysis supports sustainable land-use strategies. My studies on Bayesian networks [@whitney_decision_2023] have also provided insights into improving decision-making in agroecology by integrating expert knowledge and participatory approaches.
+
+At the core of my research is the use of probabilistic modeling to quantify risks, trade-offs, and system dynamics in data-limited environments. Unlike conventional deterministic models, my frameworks explicitly incorporate probability distributions, expert knowledge, and participatory inputs, making them more adaptive to real-world conditions. By applying these methods, I have improved the transparency and robustness of agricultural and environmental planning.
+
+Beyond agricultural decision-making, my research has extended to water resource management, pest control, carbon markets, and climate adaptation. Studies such as @fernandez_prioritizing_2022 on climate adaptation strategies and @do_decision_2020 on agroforestry adoption risks have demonstrated how structured decision-support frameworks improve intervention design. These contributions underscore the importance of integrating expert knowledge, participatory modeling, and uncertainty-enabled decision analysis in sustainability science.
+
+My work is rooted in transdisciplinary collaboration. By integrating expert knowledge, local perspectives, and structured decision analysis, I have developed decision-support tools that are contextually relevant and actionable. The combination of probabilistic reasoning, participatory modeling, and applied agroecology has advanced decision science for sustainable agriculture, ensuring that scientific insights translate into tangible, real-world impact. 
+
+The specific aims of my research include:
+
+- **Designing and implementing decision-support models** to assess sustainable development strategies for smallholder farming communities. These models identify interventions that maximize socio-economic and ecological benefits by evaluating their impact on biodiversity and human livelihoods, ensuring sustainability at both community and environmental levels.
+
+- **Co-developing the modeling approach with local experts, Indigenous communities, and decision-makers.** By adopting a participatory approach, these models incorporate traditional conservation practices and Indigenous knowledge, adapting global strategies to specific local contexts (Fig. \ref{fig:Figures/Model_Dev_Flow}).
+
+- **Exploring synergies and trade-offs between economic development, gender equality, and environmental sustainability**, particularly in alignment with the Sustainable Development Goals (SDGs).
+
+```{r Figures/Model_Dev_Flow, echo=FALSE, fig.cap="\\label{fig:Figures/Model_Dev_Flow}Overview of the model development process for generating model forecasts. Adapted from the author’s research.", out.width='100%'}
+knitr::include_graphics('figures/Model_Dev_Flow.pdf')
+```
+
+My research draws on insights from human ecology, decision theory, and agroecology to develop practical solutions (Fig. \ref{fig:Figures/ERC_Venn}). Studies such as @altieri_agroecology:_2002 highlight the importance of incorporating local farming knowledge into sustainable agriculture. My work contributes to this literature by integrating expert-elicited models and decision analysis into agroecological research, ensuring that decision-making tools remain contextually relevant and practically applicable.
+
+```{r Figures/ERC_Venn, echo=FALSE, fig.cap="\\label{fig:Figures/ERC_Venn}Venn diagram illustrating the theoretical overlap in research approaches. Adapted from the author’s research.", out.width='100%'}
+knitr::include_graphics('figures/ERC_Venn.pdf')
+```
+
+This research integrates three key areas:  
+
+1. **Decision Analysis** – Providing structured methodologies for evaluating risks and outcomes in development decisions.  
+
+2. **Agroecology** – Focusing on sustainable agricultural practices and ecological resilience.  
+
+3. **Human Ecology** – Emphasizing local knowledge and socio-cultural contexts in decision-making.
+
+This transdisciplinary framework supports sustainable development by balancing human well-being with ecological sustainability through tailored decision-support models. My studies on participatory modeling, such as @whitney_decision_2023, have demonstrated how expert-elicited knowledge and stakeholder engagement enhance decision-making under uncertainty.
+
+As @howard_foundations_2015 outlined, decision analysis provides structured methodologies for evaluating alternatives and potential outcomes under uncertainty. My work applies these principles in agroecology and conservation planning, integrating data, expert judgment, and stakeholder input to optimize sustainability strategies. While causal models such as those described by @pearl_book_2018 are widely used in structured decision-making, my work has shown that conventional models often fail to capture the high uncertainty and complexity inherent in smallholder farming systems. My research adapts these tools to community-driven, localized development strategies, demonstrating how decision science can be effectively applied to agroecology and conservation.
+
+Drawing from human ecology, I have employed **progressive contextualization** [@vayda_progressive_1983], tracing causal chains from specific land-use decisions to broader socio-economic and environmental factors. This iterative, problem-driven approach has been particularly useful in agroecological research, ensuring that interventions are grounded in real-world dynamics rather than static models. By embedding research within local communities, my work has avoided rigid system boundaries, allowing for emergent complexities to shape decision models dynamically.
+
+**Key Contributions:**
+
+- **Structured decision-support models**: Applying Monte Carlo simulations, Bayesian networks, and expert-elicited probability distributions to assess intervention impacts.
+
+- **Participatory modeling**: Engaging local stakeholders to ensure decision models reflect real-world constraints and opportunities.
+
+- **Transdisciplinary integration**: Bridging decision analysis, agroecology, and human ecology to improve agricultural sustainability planning.
+
+By refining probabilistic decision models and participatory frameworks, my research has provided actionable decision-support tools that enhance sustainability outcomes. These findings contribute to ongoing debates in decision science, agroecology, and conservation planning, demonstrating the practical application of uncertainty-enabled decision analysis in real-world sustainability challenges.

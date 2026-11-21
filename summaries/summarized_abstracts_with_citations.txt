@@ -1,0 +1,128 @@
+@whitney_probabilistic_2018
+Governments around the world have agreed to end hunger and food insecurity and to improve global nutrition, largely through changes to agriculture and food systems. However, they are faced with a lot of uncertainty when making policy decisions, since any agricultural changes will influence social and biophysical systems, which could yield either positive or negative nutrition outcomes. We outline a holistic probability modeling approach with Bayesian Network BN models for nutritional impacts resulting from agricultural development policy.
+
+
+@lanzanova_improving_2019
+In the arid areas of Sub-Saharan Africa, perennial challenges of water scarcity and food insecurity are exacerbated by climate change and variability. The development of robust strategies to cope with the region's climatic challenges requires thorough consideration of uncertainty and risk in decision making. We demonstrate the use of probabilistic decision analysis to compare intervention options to prevent reservoir sedimentation in Burkina Faso.
+
+
+@yigzaw_stochastic_2019
+Irrigation plays a significant role in achieving food and nutrition security in dry regions. However, detailed exante appraisals of irrigation development investments are required to efficiently allocate resources and optimize returns on investment. Due to the inherent system complexity and uncertain consequences of irrigation development interventions coupled with limited data availability, deterministic cost-benefit analysis can be ineffective in guiding formal decision-making.
+
+
+@oluoch_integrated_2022
+Availability is a crucial aspect of wild edible plants WEPs consumption by indigenous communities. Understanding the local perception of this availability helps to determine, which contribution WEPs can make to rural communities. We used an integrated participatory approach to investigate important parameters and themes that influenced the perception of availability of woody WEPs. We demonstrate the approach in three communities in Turkana County, Kenya.
+
+
+@fernandez_prioritizing_2022
+Intervening into agricultural systems necessarily includes risks, uncertainties, and ultimately unknown outcomes. Decision analysis embraces uncertainty through an interdisciplinary approach that involves relevant stakeholders in evaluating complex decisions. We applied decision analysis approaches to prioritize 21 farm management interventions, which could be considered in certification schemes for banana production.
+
+
+@luu_decision_2022
+Farmers’ agricultural practices in Vietnam are highly sensitive to weather, climate variability and climate change. The lack of timely and actionable climate-informed agricultural advice leads to significant input and yield losses, which can render investments in farming unprofitable. Development organizations in Vietnam have provided agro-climate services ACS to smallholder farmers on a limited scale.
+
+
+@ruett_assessing_2022
+Many farmers hesitate to adopt new management strategies with actual or perceived risks and uncertainties. Especially in ornamental plant production, farmers often stick to current production strategies to avoid the risk of economically harmful plant losses, even though they may recognize the need to optimize farm management. This work focused on the economically important and little-researched production system of ornamental heather Calluna vulgaris to help farmers find appropriate measures to sustainably improve resource use, plant quality, and profitability despite existing risks.
+
+
+@burbano-figueroa_profitability_2022
+Decision making in pest management is a challenging task. While pest dynamics are often quite uncertain, such decisions are often based on tenuous assumptions of certainty economic injury levels and marginal utility approximations. To overcome such assumptions and adequately consider uncertainty, we apply decision analysis to evaluate management strategies used by farmers in the Colombian Caribbean against the boll weevil BW.
+
+
+@burbano-figueroa_farm-planning_2022
+Even though diversification of horticultural production systems allows farmers to cope with risks and uncertainties, strategies for raising profitability usually aim to improve the productivity of monocultures rather than pursuing diversification. Horticultural production systems are often highly diversified in terms of land use and planted crops. Assessing the economic prospects of these complex systems requires quantification of productivity and related risks for individual crops as well as an assessment of the benefits from diversification.
+
+
+@ruett_hyperspectral_2022
+Ornamental heather Calluna vulgaris production is characterized by high risks such as occurrence of fungal diseases and plant losses. Given the general absence of formal research on this economically important pro­ duction system, farmers depend on their own approaches to assess plant vitality. We provide a reproducible, affordable and transparent workflow for assessing ornamental plant vitality with spectroscopy data.
+
+
+@kamau_holistic_2021
+The introduction of organic farm management practices in sub-Saharan Africa could act as a lever for supporting regional sustainable development. In this study, we sought to assess the sustainability performance of organic certified and non-certified and non-organic farms in the dry Kajiado County and the wet Murang’a County in Kenya, based on four sustainability dimensions: Good Governance, Environmental Integrity, Economic Resilience and Social Well-Being. We collected household survey data from 400 smallholder farms, which were formally characterized into five types mixed organic and conventional, certified organic, organic, conventional, and subsistence farms.
+
+
+@fernandez_prospects_2020
+In Mediterranean climates, many deciduous fruit trees are unable to meet their seasonal chill requirements, a situation that may be exacerbated by global warming. Modeling approaches can be used to assess the impacts of climate change on tree crops for the past and forecast possible impacts for the future. We apply modeling approaches to assess climate change impacts on Chilean fruit production in nine major agricultural sites.
+
+
+@tamba_stochastic_2021
+Forest and Landscape Restoration FLR is carried out with the objective of regaining ecological functions and enhancing human well-being through intervention in degrading ecosystems. However, uncertainties and risks related to FLR make it difficult to predict long-term outcomes and inform investment plans. We applied a Stochastic Impact Evaluation framework SIE to simulate returns on investment in the case of FLR interventionsin a degraded dry Afromontane forest while accounting for uncertainties.
+
+
+@ruett_model-based_2020
+Agricultural management decisions are usually made without perfect knowledge. Decision Analysis DA approaches translate available uncertain information on costs, benefits and risks involved in decisions into actionable management recommendations. We illustrate the use of DA procedures to inform decisions on disease management strategies in ornamental plant production.
+
+
+@rojas_adapting_2021
+Available options for mitigating the impacts of extreme weather events on temperate fruit trees involve a number of risks and uncertainties, leaving growers hesitant about the benefits of implementing new technologies to protect their orchards. We used Decision Analysis approaches, which account for these risks and uncertainties, to assess investment decisions in sweet cherry production systems in central Chile. We evaluated the adoption of polyethylene covers for orchards in northern- and southern-central Chile.
+
+
+@mcgonigle_knowledge_2020
+Sustainable land management is at the heart of some of the most intractable challenges facing humanity in the 21st century. It is critical for tackling biodiversity loss, land degradation, climate change and the decline of ecosystem services. It underpins food production, livelihoods, dietary health, social equity, climate change adaptation, and many other outcomes.
+
+
+@liman_harou_mapping_2020
+Many actors in agricultural research, development, and policy arenas require accurate information on the spatial extents of cropping and farming practices. While remote sensing provides ways for obtaining such information, it is often difficult to distinguish between different types of agricultural practices or identify particular farming systems. Stochastic system behavior or similarity in the spectral signatures of different system components can lead to misclassification.
+
+
+@liman_harou_crop_2021
+Crop models can support agricultural decisions, yet their reliability is necessarily limited when they do not sufficiently represent the complexity and specific circumstances of the target system. In some cases, models have such prohibitively high data requirements that they are only applicable with far-reaching and often questionable assumptions. In this paper, we demonstrate a customizable solution-oriented approach for crop modelling in situations where data and resources are limited.
+
+
+@do_decision_2020
+Agroforestry interventions have the potential to benefit the livelihoods of farmers and communities worldwide. However, given the high system complexity, the long-term benefits of agroforestry are difficult to anticipate. This study aimed to integrate uncertainty into long-term performance projections for agroforestry interventions in the highlands of Northwest Vietnam.
+
+
+@kuyah_agroforestry_2019
+Agricultural landscapes are increasingly being managed with the aim of enhancing the provisioning of multiple ecosystem services and sustainability of production systems. However, agricultural management that maximizes provisioning ecosystem services can often reduce both regulating and maintenance services. We hypothesized that agroforestry reduces trade-offs between provisioning and regulating/maintenance services.
+
+
+@sulaiman_socio-cultural_2021
+Socio–Cultural Significance of Yerba Maté among Syrian Residents and Diaspora. Syria is the world’s second–largest importer of the dried leaves of Ilex paraguariensis A.St.–Hil., commonly known as yerba maté. The unique story of yerba maté in the Syrian beverage culture started at the beginning of the twentieth century when Syrian migrants returning from South America brought the beverage with them.
+
+
+@nyamukuru_allometric_2023
+Quantification of plant biomass and carbon in ecosystems is critical for climate change mitigation. For large trees in various ecosystems, allometric models for estimating biomass have been developed but few biomass equations exist for small trees and shrubby vegetation. Allometric above-ground biomass AGB models are needed for small trees and shrubs in order to improve the quantification of biomass, particularly for savanna ecosystems, where small trees and shrubs comprise a significant portion of the biomass.
+
+
+@tabuti_priority_2022
+Woody plants support livelihoods and the well-being of billions of people worldwide. However, the establishment, management, and use of essential woody species can vary across regions. We sought to describe the diversity and uses of woody species and explore the values for which people maintain and protect these plants.
+
+
+@whitney_decision_2023
+Given the extensive impact of humans on ecosystems and the uncertainty faced by decision-makers when choos‑ing among alternatives, formal support is required for decision-making in complex agroecological systems. While approaches for producing reliable impact projections accounting for system complexity and uncertainty do exist, decision-makers rarely use them to assess the costs, benefits, and risks of agroecology development. Here, we review the literature and provide an overview of decision theory as a methodology for supporting decision-making in agroecology.
+
+
+@oluoch_indigenous_2023
+Understanding how local communities perceive threats and management options of wild edible plants WEPs is essential in developing their conservation strategies and action plans. Due to their multiple use values, including nutrition, medicinal, construction, and cultural as well as biotic and abiotic pressures, WEPs are exposed to overexploitation, especially within arid and semiarid lands, and hence the need to manage and conserve them. We demonstrate how an understanding of indigenous communities’ perceptions could be achieved through an integrated participatory approach involving focus group discussions FGDs and field plot surveys.
+
+
+@luu_stakeholder_2024
+The impacts of weather, climate variability and climate change on agricultural production underline the increasing importance of actionable agro-climatic services. Transitioning from supply-driven provision of climate and agricultural information to demand-driven agro-climate services ACS at scale cannot be accomplished in a top-down manner but requires the engagement of diverse stakeholders in all phases of ACS development and implementation. This requires methods and tools to handle the diversity and dynamics of interactions between relevant stakeholders, including during the pre-financing stage of the ACS.
+
+
+@oluoch_predicted_2024
+Wild edible plants WEPs can provide diverse and nutrient-rich food sources that contribute to the health and well-being of communities worldwide. In northwestern Kenya, WEPs are vital dietary components for nomadic pastoral communities with limited access to diverse cultivated food crops. However, the increasing impact of climate change poses a threat to these valuable food resources, and their sustainable utilization remains precarious.
+
+
+@luu_how_2024
+Climate services can support multiple Sustainable Development Goals. However, in agricultural contexts, the “last-mile” delivery of agro-climate services ACS struggles with numerous barriers that prevent smallholder farmers from receiving crucial information. We sought to assess the processes by which farmers adopt ACS in order to support the scaling of ACS.
+
+
+@netter_agroforestry_2022
+Voluntary standards can help to ensure the quality of projects eligible for carbon offsetting, i.e., selling carbon certificates. However, in deciding on whether to adopt such standards, the managers of carbon offset projects are faced with uncertainty regarding the costs and risks involved. Decision Analysis provides a helpful set of tools that can support such decisions by forecasting outcomes under different scenarios.
+
+
+@do_adapting_2024
+Fruit tree–based agroforestry has been promoted as an alternative farming practice in upland Northwest Vietnam to replace monocultures of staple crops. Although many studies have focused on evaluating the performance of agroforestry systems at the plot level, research on how farmers perceive and evaluate agroforestry considering whole-farm contexts is limited. We explored the perceptions and reasoned management decisions of agroforestry farmers to uncover challenges that hinder the wider use of agroforestry, and we assessed farmers’ strategies for effective management of adoption challenges.
+
+
+@luedeling_limitations_2022
+National-scale carbon footprints of livestock production are commonly computed from a set of production system characteristics that serve as inputs for greenhouse gas GHG emission models. We evaluated the feasibility of using such equations at a finer scale to derive a simple farm-scale indicator of emission intensity milk yield per head. Using probabilistic simulations, we quantified the impact of input variable uncertainty on emission estimates for smallholder dairy farms in Kenya.
+
+
+@whitney_balancing_2025
+Implementing environmental flows e-flows is crucial for protecting river ecosystems but often competes with water needs for small-scale agriculture. Understanding these trade-offs is essential for effective water management. We employ holistic modeling to explore the socioecological impacts of e-flows on agriculture along the lower Great Letaba River.
+
+

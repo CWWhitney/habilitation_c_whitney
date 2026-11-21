@@ -1,0 +1,38 @@
+\pagenumbering{gobble} 
+\begin{titlepage}
+\begin{center}
+
+\vspace*{2cm}
+        % Title
+        {\Huge \textbf{Holistic Modeling Approaches for Supporting Sustainability Transitions}} \\[1.5cm]
+
+        % Additional Information
+        {\large Habilitation} \\[2cm]
+        
+        % Information 
+        {\large To obtain the venia legendi} 
+        
+        {\large for the subject}  
+        
+        {\large “Agroecology and Sustainable Development”}  
+        
+        {\large at the Faculty of Agricultural, Nutritional and Engineering Sciences}  
+        
+        {\large University of Bonn} \\
+
+\vspace*{1cm}
+
+        % University Logo
+        \includegraphics[width=0.3\textwidth]{figures/Uni_Bonn_Picture.pdf} \\[2cm]
+        
+        {\Large Rheinische Friedrich-Wilhelms-Universität Bonn} \\[2cm]
+        
+        % Author Name
+        {\Large \textbf{Cory William Whitney}} \\[0.5cm]
+
+        % Date
+        {\large \today}
+    \end{center}
+\end{titlepage}
+
+\pagenumbering{arabic} 

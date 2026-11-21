@@ -1,0 +1,25 @@
+---
+output: 
+  pdf_document:
+    latex_engine: xelatex
+    includes:
+      keep_tex: yes
+csl: methods-in-ecology-and-evolution.csl
+bibliography: conferences.bib
+nocite: "@*"
+header-includes:
+   \usepackage{pdfpages}
+   \usepackage{fancyhdr}
+   \usepackage{sidecap}
+   \usepackage{fullpage}
+   \usepackage{pdflscape}
+   \pagestyle{fancy}
+   \fancyhf{}
+   \fancyfoot[C]{\textit{Conference contributions} \textbar\ \textbf{Cory Whitney} \textbar\ Page \thepage}
+   \renewcommand{\headrulewidth}{0pt} 
+---
+
+# Conference Contributions
+
+Dr. Cory Whitney
+

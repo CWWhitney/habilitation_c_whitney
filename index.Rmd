@@ -1,0 +1,223 @@
+---
+output: 
+  pdf_document:
+    extra_dependencies: ["float"]
+    number_sections: true
+    latex_engine: xelatex
+    includes:
+      keep_tex: yes
+    toc_depth: 2
+csl: csl/methods-in-ecology-and-evolution.csl
+bibliography:
+- bib/habilitation.bib
+- bib/cory_papers_habilitation.bib
+header-includes:
+   \usepackage{pdfpages}
+   \usepackage{fancyhdr}
+   \usepackage{sidecap}
+   \usepackage{fullpage}
+   \usepackage{pdflscape}
+   \pagestyle{fancy}
+   \fancyhf{}
+   \fancyfoot[C]{\textit{Holistic Modeling Approaches} \textbar\ \textbf{Cory Whitney} \textbar\ Page \thepage}
+   \renewcommand{\headrulewidth}{0pt} 
+---
+
+<!-- Figure placement options from Yihui Xi  -->
+<!-- https://bookdown.org/yihui/rmarkdown-cookbook/figure-placement.html -->
+
+```{r setup, include=FALSE}
+library(knitr)
+knitr::opts_chunk$set(fig.pos = "H", out.extra = "", fig.align = "center")
+# knitr::opts_chunk$set(fig.pos = "H", out.extra = "")
+# Automate all functions to create scripts anew from bib file
+source("functions/extract_abstracts_to_text.R")
+source("functions/create_bibtex_data.R")
+source("functions/get_paper_number.R")
+source("functions/summarize.R")
+source("functions/group_bibrefs_for_markdown.R")
+source("functions/group_paper_numbers.R")
+source("summaries/extract_summaries.R") #Create Appendix 1 from bib
+```
+
+\includepdf[pages={1}, pagecommand={\thispagestyle{empty}}, fitpaper=true, offset=0 0]{Cover.pdf}
+
+```{r child = "0_Title.Rmd"}
+```
+
+<!--  first section Roman numerals -->
+
+<!-- Title numbering max of three (though toc_depth: 2)-->
+<!-- \renewcommand{\thesection}{\roman{section}}  -->
+<!-- \renewcommand{\thesubsection}{\thesection.\roman{subsection}} -->
+
+\pagenumbering{roman}
+
+\tableofcontents
+
+\listoffigures
+
+\newpage
+
+<!-- Just thinking now: is it needed to define some of the terms  (like Monte Carlo simulations, but there are for sure more) in a glossary or something similar -->
+
+# Research Contributions and Methodological Development {-}
+
+```{r child="1_Authors_Story.Rmd"}
+```
+
+\newpage
+
+# Papers included {-}
+
+<!-- Does this section having a bit of overlap with Section 1 and 2? How should audiences distinguish it? -->
+
+```{r child = "2_Papers_Included.Rmd"}
+```
+
+\newpage
+
+# Author's role in each paper {-}
+
+```{r child = "Appendix_2_My_Role.Rmd"}
+```
+
+\newpage
+
+# Rationale {-}
+
+```{r child="3_Rationale.Rmd"}
+```
+
+\newpage
+
+# Theoretical Foundations {-}
+
+```{r child = "4_Theory.Rmd"}
+```
+
+<!-- switch back to arabic numbers -->
+\renewcommand{\thesection}{\arabic{section}}
+\renewcommand{\thesubsection}{\thesection.\arabic{subsection}}
+
+\newpage
+\pagenumbering{arabic}
+
+# Introduction
+
+```{r child = "5_Overall_Intro.Rmd"}
+```
+
+
+\newpage
+
+<!-- Part 1  -->
+
+# Advancing Agroecology through Decision Analytical Methods {#chapter_one}
+
+```{r child = "Part1_1_Advancing_Agroecology_DA.Rmd"}
+```
+
+## Applying Structured Decision Models
+
+```{r child = "Part1_1_Strucured_Decisions.Rmd"}
+```
+
+## Addresssing Complexity and Uncertainty in Agroforestry Interventions
+
+```{r child = "Part1_2_Agroforestry.Rmd"}
+```
+
+## Assessing Management Strategies in Horticulture
+
+```{r child = "Part1_3_Horticulture.Rmd"}
+```
+
+## Informing Water Resources Management
+
+```{r child = "Part1_4_Water.Rmd"}
+```
+
+## Supporting Climate Adaptation and Mitigation Interventions
+
+```{r child="Part1_5_Climate.Rmd"}
+```
+
+\newpage
+
+<!-- Part 2  -->
+
+\newpage
+
+# Advancing Methods in Transdisciplinarity and Agroecology {#chapter_two}
+
+```{r child= "Part2_1_Adv_Transd_Agroeco.Rmd"}
+```
+
+## Transdisciplinary Approaches in Agroecology
+
+```{r child= "Part2_2_DA_Transd_Agroeco.Rmd"}
+```
+
+## Co-Creating Solutions Through Participatory Methods
+
+```{r child= "Part2_3_PartRes_Agroeco.Rmd"}
+```
+
+## Assessing Agroecological Interventions Using Holistic Evaluation Frameworks
+
+```{r child= "Part2_4_Holistic_Transd_Agroeco.Rmd"}
+```
+
+## Bridging Science, Policy, and Practice in Agroecology
+
+```{r child= "Part2_5_Futur_Transd_Agroeco.Rmd"}
+```
+
+\newpage
+
+# Practical implications and impact
+
+```{r child = "Part3_Impact.Rmd"}
+```
+
+\newpage
+
+# Conclusion and Outlook
+
+```{r child = "Part4_Outlook.Rmd"}
+```
+
+# Acknowledgment of Third-Party Contributions
+
+```{r child = "Third-Party_Contributions.Rmd"}
+```
+
+\newpage
+
+# References
+
+<div id="refs"></div>
+
+<!-- \newpage -->
+
+<!-- # Appendix I. - Summaries of papers included {#appendix-i} -->
+
+<!-- \newpage -->
+
+<!-- ```{r child = "summaries/summarized_title_author_etc.Rmd"} -->
+<!-- ``` -->
+
+\newpage
+
+# Reprints of author’s publications to the study {#appendix-iii}
+
+\newpage
+
+   \fancyhf{}
+   \fancyfoot[R]{\thepage}
+
+```{r child = "Appendix_3_All_Prints/AA_references.Rmd"}
+```
+
+![](Prufungen_Eigenstaendigkeitserklaerung.pdf)

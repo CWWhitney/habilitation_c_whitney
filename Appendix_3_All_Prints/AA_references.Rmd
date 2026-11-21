@@ -1,0 +1,384 @@
+<!--  Earth's Future  -->
+\newpage
+## Paper 1 Probabilistic decision tools for determining impacts of agricultural development policy on household nutrition {#whitney_probabilistic_2018}
+
+\begin{center}
+\vspace*{2cm}
+{\Large \textbf{Cory Whitney, Denis Lanzanova, Caroline Muchiri, Keith D. Shepherd, Todd S. Rosenstock, Michael Krawinkel, John R. S. Tabuti, Eike Luedeling}} \\[0.5cm]
+\vspace*{1cm}
+{\Large Earth's Future} \\[2cm]
+\end{center}
+\includepdf[pages=-, pagecommand={\thispagestyle{empty}}]{Appendix_3_All_Prints/whitney_probabilistic_2018.pdf}
+
+<!--  CABI Agriculture and Bioscience  -->
+\newpage
+## Paper 2 Decision analytical methods for assessing the efficacy of agroecology interventions {#whitney_decision_2023}
+
+\begin{center}
+\vspace*{2cm}
+{\Large \textbf{Cory Whitney, Lisa Biber-Freudenberger, Eike Luedeling}} \\[0.5cm]
+\vspace*{1cm}
+{\Large CABI Agriculture and Bioscience} \\[2cm]
+\end{center}
+\includepdf[pages=-, pagecommand={\thispagestyle{empty}}]{Appendix_3_All_Prints/whitney_decision_2023.pdf}
+
+<!--  Journal of Hydrology  -->
+\newpage
+## Paper 3 Balancing ecosystem sustainability and irrigated smallholder Agriculture: A modeling approach for water resource management {#whitney_balancing_2025}
+
+\begin{center}
+\vspace*{2cm}
+{\Large \textbf{Cory Whitney, Gordon O’Brien, Vuyisile Dlamini, Ikhothatseng Jacob Greffiths, Chris Dickens, Eike Luedeling}} \\[0.5cm]
+\vspace*{1cm}
+{\Large Journal of Hydrology} \\[2cm]
+\end{center}
+\includepdf[pages=-, pagecommand={\thispagestyle{empty}}]{Appendix_3_All_Prints/whitney_balancing_2025.pdf}
+
+<!--  Agronomy for Sustainable Development  -->
+\newpage
+## Paper 4 Prioritizing farm management interventions to improve climate change adaptation and mitigation outcomes—a case study for banana plantations {#fernandez_prioritizing_2022}
+
+\begin{center}
+\vspace*{2cm}
+{\Large \textbf{Eduardo Fernandez, Hoa Do, Eike Luedeling, Thi Thu Giang Luu, Cory Whitney}} \\[0.5cm]
+\vspace*{1cm}
+{\Large Agronomy for Sustainable Development} \\[2cm]
+\end{center}
+\includepdf[pages=-, pagecommand={\thispagestyle{empty}}]{Appendix_3_All_Prints/fernandez_prioritizing_2022.pdf}
+
+<!--  Agronomy for Sustainable Development  -->
+\newpage
+## Paper 5 Decision analysis of agroforestry options reveals adoption risks for resource-poor farmers {#do_decision_2020}
+
+\begin{center}
+\vspace*{2cm}
+{\Large \textbf{Hoa Do, Eike Luedeling, Cory Whitney}} \\[0.5cm]
+\vspace*{1cm}
+{\Large Agronomy for Sustainable Development} \\[2cm]
+\end{center}
+\includepdf[pages=-, pagecommand={\thispagestyle{empty}}]{Appendix_3_All_Prints/do_decision_2020.pdf}
+
+<!--  Environment, Development and Sustainability  -->
+\newpage
+## Paper 6 How to bridge the last mile in agro-climate service adoption? The importance of farmers’ needs, attitudes and interpersonal relations in understanding impact pathways {#luu_how_2024}
+
+\begin{center}
+\vspace*{2cm}
+{\Large \textbf{Thi Thu Giang Luu, Eike Luedeling, Lisa Biber-Freudenberger, Cory Whitney}} \\[0.5cm]
+\vspace*{1cm}
+{\Large Environment, Development and Sustainability} \\[2cm]
+\end{center}
+\includepdf[pages=-, pagecommand={\thispagestyle{empty}}]{Appendix_3_All_Prints/luu_how_2024.pdf}
+
+<!--  Mitigation and Adaptation Strategies for Global Change  -->
+\newpage
+## Paper 7 Agroforestry and reforestation with the Gold Standard-Decision Analysis of a voluntary carbon offset label {#netter_agroforestry_2022}
+
+\begin{center}
+\vspace*{2cm}
+{\Large \textbf{Leonie Netter, Eike Luedeling, Cory Whitney}} \\[0.5cm]
+\vspace*{1cm}
+{\Large Mitigation and Adaptation Strategies for Global Change} \\[2cm]
+\end{center}
+\includepdf[pages=-, pagecommand={\thispagestyle{empty}}]{Appendix_3_All_Prints/netter_agroforestry_2022.pdf}
+
+<!--  Agronomy for Sustainable Development  -->
+\newpage
+## Paper 8 Agroforestry delivers a win-win solution for ecosystem services in sub-Saharan Africa. A meta-analysis {#kuyah_agroforestry_2019}
+
+\begin{center}
+\vspace*{2cm}
+{\Large \textbf{Shem Kuyah, Cory Whitney, Mattias Jonsson, Gudeta W. Sileshi, Ingrid Öborn, Catherine W. Muthuri, Eike Luedeling}} \\[0.5cm]
+\vspace*{1cm}
+{\Large Agronomy for Sustainable Development} \\[2cm]
+\end{center}
+\includepdf[pages=-, pagecommand={\thispagestyle{empty}}]{Appendix_3_All_Prints/kuyah_agroforestry_2019.pdf}
+
+<!--  Agronomy for Sustainable Development  -->
+\newpage
+## Paper 9 Adapting agroforestry to upland farming systems: narratives from smallholder farmers in Northwest Vietnam {#do_adapting_2024}
+
+\begin{center}
+\vspace*{2cm}
+{\Large \textbf{Hoa Do, Cory Whitney, Nguyen La, Hugo Storm, Eike Luedeling}} \\[0.5cm]
+\vspace*{1cm}
+{\Large Agronomy for Sustainable Development} \\[2cm]
+\end{center}
+\includepdf[pages=-, pagecommand={\thispagestyle{empty}}]{Appendix_3_All_Prints/do_adapting_2024.pdf}
+
+<!--  Environmental Modelling and Software  -->
+\newpage
+## Paper 10 Improving development efficiency through decision analysis: Reservoir protection in Burkina Faso {#lanzanova_improving_2019}
+
+\begin{center}
+\vspace*{2cm}
+{\Large \textbf{Denis Lanzanova, Cory Whitney, Keith Shepherd, Eike Luedeling}} \\[0.5cm]
+\vspace*{1cm}
+{\Large Environmental Modelling and Software} \\[2cm]
+\end{center}
+\includepdf[pages=-, pagecommand={\thispagestyle{empty}}]{Appendix_3_All_Prints/lanzanova_improving_2019.pdf}
+
+<!--  Science of The Total Environment  -->
+\newpage
+## Paper 11 Stochastic impact evaluation of an irrigation development intervention in Northern Ethiopia {#yigzaw_stochastic_2019}
+
+\begin{center}
+\vspace*{2cm}
+{\Large \textbf{Negusse Yigzaw, John Mburu, Chris Ackello-Ogutu, Cory Whitney, Eike Luedeling}} \\[0.5cm]
+\vspace*{1cm}
+{\Large Science of The Total Environment} \\[2cm]
+\end{center}
+\includepdf[pages=-, pagecommand={\thispagestyle{empty}}]{Appendix_3_All_Prints/yigzaw_stochastic_2019.pdf}
+
+<!--  Human Ecology  -->
+\newpage
+## Paper 12 Integrated Participatory Approach Reveals Perceived Local Availability of Wild Edible Plants in Northwestern Kenya {#oluoch_integrated_2022}
+
+\begin{center}
+\vspace*{2cm}
+{\Large \textbf{Wyclife Agumba Oluoch, Cory W. Whitney, Céline Termote, Christian Borgemeister, Christine B. Schmitt}} \\[0.5cm]
+\vspace*{1cm}
+{\Large Human Ecology} \\[2cm]
+\end{center}
+\includepdf[pages=-, pagecommand={\thispagestyle{empty}}]{Appendix_3_All_Prints/oluoch_integrated_2022.pdf}
+
+<!--  Climate Services  -->
+\newpage
+## Paper 13 Decision analysis of agro-climate service scaling – A case study in Dien Bien District, Vietnam {#luu_decision_2022}
+
+\begin{center}
+\vspace*{2cm}
+{\Large \textbf{Thi Thu Giang Luu, Cory Whitney, Lisa Biber-Freudenberger, Eike Luedeling}} \\[0.5cm]
+\vspace*{1cm}
+{\Large Climate Services} \\[2cm]
+\end{center}
+\includepdf[pages=-, pagecommand={\thispagestyle{empty}}]{Appendix_3_All_Prints/luu_decision_2022.pdf}
+
+<!--  Climate Services  -->
+\newpage
+## Paper 14 Stakeholder engagement in agro-climate service planning {#luu_stakeholder_2024}
+
+\begin{center}
+\vspace*{2cm}
+{\Large \textbf{Thi Thu Giang Luu, Eike Luedeling, Cory Whitney, Lisa Biber-Freudenberger}} \\[0.5cm]
+\vspace*{1cm}
+{\Large Climate Services} \\[2cm]
+\end{center}
+\includepdf[pages=-, pagecommand={\thispagestyle{empty}}]{Appendix_3_All_Prints/luu_stakeholder_2024.pdf}
+
+<!--  Carbon Footprints  -->
+\newpage
+## Paper 15 Limitations of using simple indicators for evaluating agricultural emission reductions at farm level — evidence from Kenyan smallholder dairy production {#luedeling_limitations_2022}
+
+\begin{center}
+\vspace*{2cm}
+{\Large \textbf{Eike Luedeling, Cory Whitney, Andreas Wilkes, Ermias Aynekulu, Todd S. Rosenstock}} \\[0.5cm]
+\vspace*{1cm}
+{\Large Carbon Footprints} \\[2cm]
+\end{center}
+\includepdf[pages=-, pagecommand={\thispagestyle{empty}}]{Appendix_3_All_Prints/luedeling_limitations_2022.pdf}
+
+<!--  Agricultural Systems  -->
+\newpage
+## Paper 16 Adapting sweet cherry orchards to extreme weather events – Decision Analysis in support of farmers' investments in Central Chile {#rojas_adapting_2021}
+
+\begin{center}
+\vspace*{2cm}
+{\Large \textbf{Gonzalo Rojas, Eduardo Fernandez, Cory Whitney, Eike Luedeling, Italo F. Cuneo}} \\[0.5cm]
+\vspace*{1cm}
+{\Large Agricultural Systems} \\[2cm]
+\end{center}
+\includepdf[pages=-, pagecommand={\thispagestyle{empty}}]{Appendix_3_All_Prints/rojas_adapting_2021.pdf}
+
+<!--  Frontiers in Sustainable Food Systems  -->
+\newpage
+## Paper 17 A Knowledge Brokering Framework for Integrated Landscape Management {#mcgonigle_knowledge_2020}
+
+\begin{center}
+\vspace*{2cm}
+{\Large \textbf{Daniel F. McGonigle, Giulia Rota Nodari, Robyn L. Phillips, Ermias Aynekulu, Natalia Estrada-Carmona, Sarah K. Jones, Izabella Koziell, Eike Luedeling, Roseline Remans, Keith Shepherd, David Wiberg, Cory Whitney, Wei Zhang}} \\[0.5cm]
+\vspace*{1cm}
+{\Large Frontiers in Sustainable Food Systems} \\[2cm]
+\end{center}
+\includepdf[pages=-, pagecommand={\thispagestyle{empty}}]{Appendix_3_All_Prints/mcgonigle_knowledge_2020.pdf}
+
+<!--  Regional Environmental Change  -->
+\newpage
+## Paper 18 Predicted changes in distribution and richness of wild edible plants under climate change scenarios in northwestern Kenya {#oluoch_predicted_2024}
+
+\begin{center}
+\vspace*{2cm}
+{\Large \textbf{Wyclife Agumba Oluoch, Christian Borgemeister, João De Deus Vidal Junior, Tobias Fremout, Hannes Gaisberger, Cory Whitney, Christine B. Schmitt}} \\[0.5cm]
+\vspace*{1cm}
+{\Large Regional Environmental Change} \\[2cm]
+\end{center}
+\includepdf[pages=-, pagecommand={\thispagestyle{empty}}]{Appendix_3_All_Prints/oluoch_predicted_2024.pdf}
+
+<!--  Land  -->
+\newpage
+## Paper 19 Mapping Flood-Based Farming Systems with Bayesian Networks {#liman_harou_mapping_2020}
+
+\begin{center}
+\vspace*{2cm}
+{\Large \textbf{Issoufou Liman Harou, Cory Whitney, James Kung’u, Eike Luedeling}} \\[0.5cm]
+\vspace*{1cm}
+{\Large Land} \\[2cm]
+\end{center}
+\includepdf[pages=-, pagecommand={\thispagestyle{empty}}]{Appendix_3_All_Prints/liman_harou_mapping_2020.pdf}
+
+<!--  Agricultural Systems  -->
+\newpage
+## Paper 20 Crop modelling in data-poor environments – A knowledge-informed probabilistic approach to appreciate risks and uncertainties in flood-based farming systems {#liman_harou_crop_2021}
+
+\begin{center}
+\vspace*{2cm}
+{\Large \textbf{Issoufou Liman Harou, Cory Whitney, James Kung'u, Eike Luedeling}} \\[0.5cm]
+\vspace*{1cm}
+{\Large Agricultural Systems} \\[2cm]
+\end{center}
+\includepdf[pages=-, pagecommand={\thispagestyle{empty}}]{Appendix_3_All_Prints/liman_harou_crop_2021.pdf}
+
+<!--  Journal of Pest Science  -->
+\newpage
+## Paper 21 Profitability of farm-scale management strategies against the boll weevil in the tropics: case study from the Colombian Caribbean {#burbano-figueroa_profitability_2022}
+
+\begin{center}
+\vspace*{2cm}
+{\Large \textbf{Oscar Burbano-Figueroa, Alexandra Sierra-Monroy, Cory Whitney, Christian Borgemeister, Eike Luedeling}} \\[0.5cm]
+\vspace*{1cm}
+{\Large Journal of Pest Science} \\[2cm]
+\end{center}
+\includepdf[pages=-, pagecommand={\thispagestyle{empty}}]{Appendix_3_All_Prints/burbano-figueroa_profitability_2022.pdf}
+
+<!--  Agricultural Systems  -->
+\newpage
+## Paper 22 Farm-planning under risk: An application of decision analysis and portfolio theory for the assessment of crop diversification strategies in horticultural systems {#burbano-figueroa_farm-planning_2022}
+
+\begin{center}
+\vspace*{2cm}
+{\Large \textbf{Oscar Burbano-Figueroa, Alexandra Sierra-Monroy, Adriana David-Hinestroza, Cory Whitney, Christian Borgemeister, Eike Luedeling}} \\[0.5cm]
+\vspace*{1cm}
+{\Large Agricultural Systems} \\[2cm]
+\end{center}
+\includepdf[pages=-, pagecommand={\thispagestyle{empty}}]{Appendix_3_All_Prints/burbano-figueroa_farm-planning_2022.pdf}
+
+<!--  Forest Policy and Economics  -->
+\newpage
+## Paper 23 Stochastic simulation of restoration outcomes for a dry afromontane forest landscape in northern Ethiopia {#tamba_stochastic_2021}
+
+\begin{center}
+\vspace*{2cm}
+{\Large \textbf{Yvonne Tamba, Joshua Wafula, Cory Whitney, Eike Luedeling, Negusse Yigzaw, Aklilu Negussie, Caroline Muchiri, Yemane Gebru, Keith Shepherd, Ermias Aynekulu}} \\[0.5cm]
+\vspace*{1cm}
+{\Large Forest Policy and Economics} \\[2cm]
+\end{center}
+\includepdf[pages=-, pagecommand={\thispagestyle{empty}}]{Appendix_3_All_Prints/tamba_stochastic_2021.pdf}
+
+<!--  Precision Agriculture  -->
+\newpage
+## Paper 24 Assessing expected utility and profitability to support decision-making for disease control strategies in ornamental heather production {#ruett_assessing_2022}
+
+\begin{center}
+\vspace*{2cm}
+{\Large \textbf{Marius Ruett, Tobias Dalhaus, Cory Whitney, Eike Luedeling}} \\[0.5cm]
+\vspace*{1cm}
+{\Large Precision Agriculture} \\[2cm]
+\end{center}
+\includepdf[pages=-, pagecommand={\thispagestyle{empty}}]{Appendix_3_All_Prints/ruett_assessing_2022.pdf}
+
+<!--  Journal of Cleaner Production  -->
+\newpage
+## Paper 25 Model-based evaluation of management options in ornamental plant nurseries {#ruett_model-based_2020}
+
+\begin{center}
+\vspace*{2cm}
+{\Large \textbf{Marius Ruett, Cory Whitney, Eike Luedeling}} \\[0.5cm]
+\vspace*{1cm}
+{\Large Journal of Cleaner Production} \\[2cm]
+\end{center}
+\includepdf[pages=-, pagecommand={\thispagestyle{empty}}]{Appendix_3_All_Prints/ruett_model-based_2020.pdf}
+
+<!--  Journal of Ethnobiology and Ethnomedicine  -->
+\newpage
+## Paper 26 Indigenous communities’ perceptions reveal threats and management options of wild edible plants in semiarid lands of northwestern Kenya {#oluoch_indigenous_2023}
+
+\begin{center}
+\vspace*{2cm}
+{\Large \textbf{Wyclife Agumba Oluoch, Cory Whitney, Céline Termote, Christian Borgemeister, Christine B. Schmitt}} \\[0.5cm]
+\vspace*{1cm}
+{\Large Journal of Ethnobiology and Ethnomedicine} \\[2cm]
+\end{center}
+\includepdf[pages=-, pagecommand={\thispagestyle{empty}}]{Appendix_3_All_Prints/oluoch_indigenous_2023.pdf}
+
+<!--  Economic Botany  -->
+\newpage
+## Paper 27 Socio-Cultural Significance of Yerba Mate among Syrian Residents and Diaspora {#sulaiman_socio-cultural_2021}
+
+\begin{center}
+\vspace*{2cm}
+{\Large \textbf{Naji Sulaiman, Andrea Pieroni, Renata Soukand, Cory Whitney, Zbynek Polesny}} \\[0.5cm]
+\vspace*{1cm}
+{\Large Economic Botany} \\[2cm]
+\end{center}
+\includepdf[pages=-, pagecommand={\thispagestyle{empty}}]{Appendix_3_All_Prints/sulaiman_socio-cultural_2021.pdf}
+
+<!--  Scientia Horticulturae  -->
+\newpage
+## Paper 28 Hyperspectral imaging for high-throughput vitality monitoring in ornamental plant production {#ruett_hyperspectral_2022}
+
+\begin{center}
+\vspace*{2cm}
+{\Large \textbf{Marius Ruett, Laura Verena Junker-Frohn, Bastian Siegmann, Jan Ellenberger, Hannah Jaenicke, Cory Whitney, Eike Luedeling, Peter Tiede-Arlt, Uwe Rascher}} \\[0.5cm]
+\vspace*{1cm}
+{\Large Scientia Horticulturae} \\[2cm]
+\end{center}
+\includepdf[pages=-, pagecommand={\thispagestyle{empty}}]{Appendix_3_All_Prints/ruett_hyperspectral_2022.pdf}
+
+<!--  Climatic Change  -->
+\newpage
+## Paper 29 Prospects of decreasing winter chill in Chile throughout the 21st century {#fernandez_prospects_2020}
+
+\begin{center}
+\vspace*{2cm}
+{\Large \textbf{Eduardo Fernandez, Cory Whitney, Italo F. Cuneo, Eike Luedeling}} \\[0.5cm]
+\vspace*{1cm}
+{\Large Climatic Change} \\[2cm]
+\end{center}
+\includepdf[pages=-, pagecommand={\thispagestyle{empty}}]{Appendix_3_All_Prints/fernandez_prospects_2020.pdf}
+
+<!--  Trees, Forests and People  -->
+\newpage
+## Paper 30 Allometric models for aboveground biomass estimation of small trees and shrubs in African savanna ecosystems {#nyamukuru_allometric_2023}
+
+\begin{center}
+\vspace*{2cm}
+{\Large \textbf{Antonia Nyamukuru, Cory Whitney, John R. S. Tabuti, Josephine Esaete, Matthew Low}} \\[0.5cm]
+\vspace*{1cm}
+{\Large Trees, Forests and People} \\[2cm]
+\end{center}
+\includepdf[pages=-, pagecommand={\thispagestyle{empty}}]{Appendix_3_All_Prints/nyamukuru_allometric_2023.pdf}
+
+<!--  Human Ecology  -->
+\newpage
+## Paper 31 Priority Species and Management Approaches for Woody Species: A Case Study of Awach Sub-county, Gulu District, Uganda {#tabuti_priority_2022}
+
+\begin{center}
+\vspace*{2cm}
+{\Large \textbf{John Robert Stephen Tabuti, Esther Patricia Adoch, Christopher Mawa, Cory Whitney}} \\[0.5cm]
+\vspace*{1cm}
+{\Large Human Ecology} \\[2cm]
+\end{center}
+\includepdf[pages=-, pagecommand={\thispagestyle{empty}}]{Appendix_3_All_Prints/tabuti_priority_2022.pdf}
+
+<!--  Environment, Development and Sustainability  -->
+\newpage
+## Paper 32 A holistic sustainability assessment of organic certified and non-certified and non-organic smallholder farms in Kenya {#kamau_holistic_2021}
+
+\begin{center}
+\vspace*{2cm}
+{\Large \textbf{Juliet Wanjiku Kamau, Christian Shader, Lisa Biber‐Freudenberger, Till Stellmacher, David Amudavi, Jan Landert, Johan Blockeel, Cory Whitney, Christian Borgemeister}} \\[0.5cm]
+\vspace*{1cm}
+{\Large Environment, Development and Sustainability} \\[2cm]
+\end{center}
+\includepdf[pages=-, pagecommand={\thispagestyle{empty}}]{Appendix_3_All_Prints/kamau_holistic_2021.pdf}
+
